@@ -78,3 +78,18 @@ A template for architecting and designing scalable systems
 	       - Throughput of each layer
 	       - Latency caused between each layer
 	       - Overall latency justification
+
+## Systems Design Concepts You Should Know
+- [Networks & Protocols (IP, DNS, HTTP, TCP etc)](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-1-networks-and-protocols)
+- [Storage, Latency & Throughput](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-2-storage-latency-throughput)
+- [Availability](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-3-system-availability)
+- [Caching](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-4-caching)
+- [Proxies](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-5-proxies)
+- [Load Balancing](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-6-load-balancing)
+- [Consistent Hashing](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-7-consistent-hashing)
+- [Databases](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-8-databases)
+- [Leader Election](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-9-leader-election)
+- [Polling, Streaming, Sockets](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-10-polling-streaming-sockets)
+- [Endpoint Protection](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-11-endpoint-protection)
+- [Messages & Pub-Sub](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-12-messaging-pub-sub)
+- [Smaller Essentials](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-13-smaller-essentials)
