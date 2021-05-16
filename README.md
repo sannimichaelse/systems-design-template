@@ -79,7 +79,7 @@ A template for architecting and designing scalable systems
 	       - Latency caused between each layer
 	       - Overall latency justification
 
-## Systems Design Concepts You Should Know
+# Systems Design Concepts You Should Know
 - [Networks & Protocols (IP, DNS, HTTP, TCP etc)](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-1-networks-and-protocols)
 - [Storage, Latency & Throughput](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-2-storage-latency-throughput)
 - [Availability](https://www.freecodecamp.org/news/systems-design-for-interviews/#section-3-system-availability)
